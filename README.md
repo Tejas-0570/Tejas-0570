@@ -36,7 +36,7 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,mui,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css" />
 </p>
 
 ### Backend & Database
