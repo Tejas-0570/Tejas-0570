@@ -18,7 +18,7 @@
 - 🎓 B.Tech in Computer Science @ SVERI's College of Engineering, Pandharpur — **GPA 9.28/10**
 - 🛠️ Previously interned at **Webvarad Solutions** — built *NikatSeva*, a two-sided services marketplace (React Native + MERN + Socket.IO)
 - 🏆 **DIPEX 2025 Finalist** at COEP Pune — presented a cloud-based drone monitoring system to industry professionals
-- 🌱 Currently deepening expertise in **system design**, **TypeScript**, and **cloud deployment**
+- 🌱 Currently deepening expertise in **System Design**, **Docker**, and **Cloud Deployment**
 - 📍 Pandharpur, Maharashtra, India
 - 📫 Reach me at **tejaswaydande00@gmail.com**
 - 💼 **Open to full-time / fresher opportunities**
