@@ -48,7 +48,7 @@
 ### Tools & Practices
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
 </p>
 
 ---
