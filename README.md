@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tejas Waydande 👋</h1>
 
 <p align="center">
-  <b>💻 MERN Stack Developer · React Native · Java</b><br/>
+  <b>💻 Full Stack Developer · React · Java</b><br/>
   <i>Building real-world apps that solve real problems</i>
 </p>
 
