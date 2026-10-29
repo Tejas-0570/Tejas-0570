@@ -15,10 +15,24 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 B.Tech in Computer Science @ SVERI's College of Engineering, Pandharpur — **GPA 9.28/10**
+- ---
+
+## 🧑‍💻 About me
+
+- 🎓 B.Tech CSE Graduate (2026) @ SVERI's College of Engineering, Pandharpur — **GPA 9.28/10** | 🎓 Pursuing M.Tech
 - 🛠️ Previously interned at **Webvarad Solutions** — built *NikatSeva*, a two-sided services marketplace (React Native + MERN + Socket.IO)
 - 🏆 **DIPEX 2025 Finalist** at COEP Pune — presented a cloud-based drone monitoring system to industry professionals
-- 🌱 Currently deepening expertise in **System Design**, **Docker**, and **Cloud Deployment**
+- 🌱 Currently deepening expertise in **System Design**, **Docker**, **Python** and **Cloud Deployment**
+- 📍 Pandharpur, Maharashtra, India
+- 📫 Reach me at **tejaswaydande00@gmail.com**
+- 💼 **Open to full-time / fresher opportunities**
+
+---
+
+I have graduated 2026 and taken admission for M.Tech i want to change first line as graduate 2026 and pursuing M.Tech
+- 🛠️ Previously interned at **Webvarad Solutions** — built *NikatSeva*, a two-sided services marketplace (React Native + MERN + Socket.IO)
+- 🏆 **DIPEX 2025 Finalist** at COEP Pune — presented a cloud-based drone monitoring system to industry professionals
+- 🌱 Currently deepening expertise in **System Design**, **Docker**, **Python** and **Cloud Deployment**
 - 📍 Pandharpur, Maharashtra, India
 - 📫 Reach me at **tejaswaydande00@gmail.com**
 - 💼 **Open to full-time / fresher opportunities**
